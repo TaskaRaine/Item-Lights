@@ -1,0 +1,23 @@
+﻿[
+    {
+        "op": "add",
+        "path": "/attributesByType/*-temporal",
+        "value": {
+            "itemlight": [18, 3, 6]
+        },
+        "file": "game:itemtypes/resource/gear"
+    },
+    {
+        "op": "add",
+        "path": "/attributes/itemlight",
+        "value": [7, 7, 7],
+        "file": "game:itemtypes/resource/candle"
+    },
+    {
+        "op": "add",
+        "path": "/attributes/itemlight",
+        "value": [0, 0, 8],
+        "file": "game:itemtypes/magicwand"
+    },
+
+]

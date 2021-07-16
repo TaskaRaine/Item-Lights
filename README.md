@@ -1,6 +1,6 @@
 ## Item Lights
 
-Candle, why won’t you light my path at night? You glow with fire and yet I stumble around in the darkness…
+Candle, why wonâ€™t you light my path at night? You glow with fire and yet I stumble around in the darknessâ€¦
 
 ![Screenshot](resources/images/candlelight.png)
 
@@ -8,7 +8,7 @@ Candle, why won’t you light my path at night? You glow with fire and yet I stumb
 
 Welcome to the GitHub repository for the Vintage Story mod, Item Lights! 
 
-Item Lights is a mod that aims to address an odd inconsistency in Vintage Story. Unlike blocks, items cannot emit light when held in hand or tossed on the ground. This means that a lit candle won’t light up the area, while a torch will. 
+Item Lights is a mod that aims to address an odd inconsistency in Vintage Story. Unlike blocks, items cannot emit light when held in hand or tossed on the ground. This means that a lit candle wonâ€™t light up the area, while a torch will. 
 
 This mod gives items the same illumination capabilities as blocks have. Candles, Temporal Gears, and the creative Wand are now light sources with Item Lights.
 
@@ -20,5 +20,13 @@ Any byte array value that matches this graphic should work(hover to see values):
 
 ### Releases
 
-### Vintage Story 1.14.0+
+#### Vintage Story 1.15.0
+[Version 1.0.1](https://github.com/TaskaRaine/Item-Lights/releases/download/1.0.1/ItemLights_V1.0.1.zip)
+
+#### Vintage Story 1.14.0+
 [Version 1.0.0](https://github.com/TaskaRaine/Item-Lights/releases/download/1.0.0/ItemLights_v1.0.0.zip)
+
+### Change Log
+
+#### Version 1.0.1
+Compiled mod to make it compatible with Vintage Story 1.15.0

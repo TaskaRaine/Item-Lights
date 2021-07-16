@@ -4,8 +4,8 @@
   "name": "Item Lights",
   "author": "Taska Raine",
   "description": "Just like blocks, items can emit light when held or dropped on the ground.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependency": {
-    "game": "1.14.0"
+    "game": "1.15.0"
   }
 }

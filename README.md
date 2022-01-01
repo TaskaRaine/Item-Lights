@@ -20,13 +20,11 @@ Any byte array value that matches this graphic should work(hover to see values):
 
 ### Releases
 
-#### Vintage Story 1.15.0
-[Version 1.0.1](https://github.com/TaskaRaine/Item-Lights/releases/download/1.0.1/ItemLights_V1.0.1.zip)
+## Vintage Story 1.16.0+
+[Version 1.0.2](https://github.com/TaskaRaine/Item-Lights/releases/download/1.0.2/ItemLights_v1.0.2.zip)
 
-#### Vintage Story 1.14.0+
+### Vintage Story 1.15.0+
+[Version 1.0.1](https://github.com/TaskaRaine/Item-Lights/releases/download/1.0.1/ItemLights_v1.0.1.zip)
+
+### Vintage Story 1.14.0+
 [Version 1.0.0](https://github.com/TaskaRaine/Item-Lights/releases/download/1.0.0/ItemLights_v1.0.0.zip)
-
-### Change Log
-
-#### Version 1.0.1
-Compiled mod to make it compatible with Vintage Story 1.15.0
